@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "projet5-service"
+  "defaultProject": "projet5-service",
+  "cli": {
+    "analytics": false
+  }
 }
